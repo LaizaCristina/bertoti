@@ -2,4 +2,8 @@
 
 Titus Winters, Software Engineering at Google.
 
+COMENTÁRIO:
 O texto comenta sobre ser organizado de acordo com admissão de tarefas, pois engenharia de software rerquer mais tempo de dedicação, não ter pressa, não aceitar todas propostas para não sobrecarrar, ter calma. Engenharia de softaware não é só programar, mas além disso é programar organização do tempo e tarefas.
+
+API_TRADE-OFFS:
+O trade-offs que vejo no API é ganho de conhecimento sobre tecnologias e soft skills que são muito necessários no ambiente de trabalaho, porém isso leva muito tempo, dedicação, esforço e paciência para funcionar.
