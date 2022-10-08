@@ -1,7 +1,13 @@
-AULA 04 - 29/09/2022 - ATIVIDADE DE PROJETOS: https://github.com/LaizaCristina/BERTOTI/blob/main/ENGENHARIA%201/29.09.2022%20-%20Atividade%20de%20Projeto.md
+<h4> ATIVIDADE DE PROJETO <h4>
 
-AULA 03 - 25/08/2022 - ATIVIDADES DE REQUISITOS: https://github.com/LaizaCristina/BERTOTI/blob/main/ENGENHARIA%201/25.08.2022%20-%20Requisitos.md
+DIAGRAMA DE CLASSE UML
+![Diagrama de Classe UML](https://user-images.githubusercontent.com/111503805/194675084-01b8ed39-56a1-4518-86c3-5a8a5bea1700.jpg)
+<p align = center>
+  <img width = "325" src"![Diagrama de Classe UML](https://user-images.githubusercontent.com/111503805/194675084-01b8ed39-56a1-4518-86c3-5a8a5bea1700.jpg)"
+</p>
 
-AULA 02 - 19/08/2022 - TRADE-OFFS:https://github.com/LaizaCristina/BERTOTI/blob/main/ENGENHARIA%201/19.08.2022%20-%20Trade-offs.md
-
-AULA 01 - 18/08/2022 - COMANTÁRIO DO TEXTO: https://github.com/LaizaCristina/BERTOTI/blob/main/ENGENHARIA%201/18.08.2022%20-%20Coment%C3%A1rio%20Texto.md
+CASOS DE USO
+![Diagrama Caso Uso](https://user-images.githubusercontent.com/111503805/194674970-7e365011-6e28-4e56-b462-059ebfb3793e.jpg)
+<p align = center>
+  <img width = "325" src"![Diagrama Caso Uso](https://user-images.githubusercontent.com/111503805/194674970-7e365011-6e28-4e56-b462-059ebfb3793e.jpg)"
+</p>
