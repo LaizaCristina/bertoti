@@ -1,7 +1,7 @@
 <h4> HEURÍSTICAS COM EXPLICAÇÕES <h4>
 
 SITE CONSÓRCIO 123
-![Diagrama de Classe UML](https://user-images.githubusercontent.com/111503805/194675084-01b8ed39-56a1-4518-86c3-5a8a5bea1700.jpg)
+![](https://user-images.githubusercontent.com/111503805/194675084-01b8ed39-56a1-4518-86c3-5a8a5bea1700.jpg)
 <p align = center>
   <img width = "325" src"![Diagrama de Classe UML](https://user-images.githubusercontent.com/111503805/194675084-01b8ed39-56a1-4518-86c3-5a8a5bea1700.jpg)"
 </p>
