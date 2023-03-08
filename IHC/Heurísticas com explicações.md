@@ -32,8 +32,18 @@ Por exemplo, dentro do Trello (**[kanban de tarefas](https://www.alura.com.br/ar
 
 → Na parte “recarregue seu cartão on-line, dá a entender de que é um link para clicar e recarregar o cartão, mas é apenas um texto, e a recarga do cartão é feita por um outro aplicativo e não no próprio site.
 
-→ não fica claro onde devemos entrar para poder efetuar algumas funções e uso do site, não possui um menu para facilitar o acesso.<h5> </p>
+→ não fica claro onde devemos entrar para poder efetuar algumas funções e uso do site, não possui um menu para facilitar o acesso.<h5> 
   
+![consorcio123erro](https://user-images.githubusercontent.com/111503805/223725930-8634e812-750e-4f40-b47b-4b6749827f73.png)
   
+ ## **9. Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros**
+
+As mensagens de erros tem que ser claras e próximas do conteúdo ou ação que causou o erro.
+
+No formulário de cadastro do Spotify, caso você não preencha os dados necessários ele deixa bem claro quais campos estão faltando, com um mensagem clara e objetiva.
+
+→ abordando a heurística 7, o site mostra o erro dos campos ou dados preenchidos incorretamente mas redirecionando para outra página, não é funcional além de confundir o usuário para onde prosseguir depois
+  
+
 
 
