@@ -14,7 +14,7 @@ SITE CONSÓRCIO 123
 
 Por exemplo, no fórum [GUJ](https://www.guj.com.br/)(Grupo de usuários Java), quando vamos responder um post, o botão para enviar a resposta sempre é da mesma cor, tamanho e texto. O elemento para cancelar a resposta sempre tem seus padrões.
 
-→ As cores do site em complemento com as cores das fontes não é harmonioso.
+**EXPLICAÇÃO:** As cores do site em complemento com as cores das fontes não é harmonioso.
 
 ## **8. Estética e design minimalista**
 
