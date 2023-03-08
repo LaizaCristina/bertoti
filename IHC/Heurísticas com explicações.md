@@ -5,6 +5,8 @@ SITE CONSÓRCIO 123
 <p align = center>
   <img width = "325" src"![consorcio123](https://user-images.githubusercontent.com/111503805/223725105-a707c8fc-f25d-4d9a-9c54-bbd0bac7ebc9.png)"
 </p>
+  
+<p>
 <h5> 
 ## **4. Consistência e padrões**
 
@@ -30,7 +32,7 @@ Por exemplo, dentro do Trello (**[kanban de tarefas](https://www.alura.com.br/ar
 
 → Na parte “recarregue seu cartão on-line, dá a entender de que é um link para clicar e recarregar o cartão, mas é apenas um texto, e a recarga do cartão é feita por um outro aplicativo e não no próprio site.
 
-→ não fica claro onde devemos entrar para poder efetuar algumas funções e uso do site, não possui um menu para facilitar o acesso.<h5>
+→ não fica claro onde devemos entrar para poder efetuar algumas funções e uso do site, não possui um menu para facilitar o acesso.<h5> </p>
   
   
 
