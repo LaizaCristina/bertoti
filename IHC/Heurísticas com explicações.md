@@ -5,7 +5,8 @@ SITE CONSÓRCIO 123
 <p align = center>
   <img width = "325" src"![consorcio123](https://user-images.githubusercontent.com/111503805/223725105-a707c8fc-f25d-4d9a-9c54-bbd0bac7ebc9.png)"
 </p>
-<h5> ## **4. Consistência e padrões**
+<h5> 
+## **4. Consistência e padrões**
 
 É importante manter a consistência e padrão visual (texto, cor, desenho do elemento, som e etc).
 
