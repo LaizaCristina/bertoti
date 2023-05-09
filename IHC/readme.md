@@ -1,7 +1,18 @@
-<h4> HEURÍSTICAS COM EXPLICAÇÕES <h4>
+## **HEURÍSTICAS COM EXPLICAÇÕES**
+<h4> HEURÍSTICAS: <H4>
+Visibilidade de qual estado estamos no sistema <br>
+Correspondência entre o sistema e o mundo real <br>
+Liberdade de controle fácil pro usuário <br>
+Consistência e padrões <br>
+Prevenções de erros <br>
+Reconhecimento em vez de memorização <br>
+Flexibilidade e eficiência de uso <br>
+Estética e design minimalista <br>
+Ajude os usuários a reconhecerem, diagnosticarem e recuperarem-se de erros <br>
+Ajuda e documentação <br>
 
 ## SITE CONSÓRCIO 123
-![consorcio123](https://user-images.githubusercontent.com/111503805/223725105-a707c8fc-f25d-4d9a-9c54-bbd0bac7ebc9.png)
+  ![consorcio123](https://user-images.githubusercontent.com/111503805/223725105-a707c8fc-f25d-4d9a-9c54-bbd0bac7ebc9.png)
 <p align = center>
   <img width = "325" src"![consorcio123](https://user-images.githubusercontent.com/111503805/223725105-a707c8fc-f25d-4d9a-9c54-bbd0bac7ebc9.png)"
 </p>
