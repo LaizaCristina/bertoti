@@ -8,7 +8,7 @@ SITE CONSÓRCIO 123
   
 <p>
 <h5> 
-## **4. Consistência e padrões**
+##4. Consistência e padrões**
 
 É importante manter a consistência e padrão visual (texto, cor, desenho do elemento, som e etc).
 
