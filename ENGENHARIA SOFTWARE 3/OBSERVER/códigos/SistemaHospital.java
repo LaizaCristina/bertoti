@@ -1,5 +1,5 @@
 public class SistemaHospital implements Observer {
-    public void update(int leitosComuns, int leitosVIPs, int leitosTotal);
+    public void update(int leitosComuns, int leitosVIPs, int leitosTotal){
         display(int leitosComuns, int leitosVIPs, int leitosTotal);
 }
 
