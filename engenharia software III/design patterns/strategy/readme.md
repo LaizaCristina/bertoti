@@ -1,7 +1,3 @@
+<h1>Desisign Patterns - sleton</h1>
 
-<p align = center>
-<h1> Design Patterns - Strategy </h1>
- 
-  ![designpatternsStrategy](https://github.com/LaizaCristina/BERTOTI/blob/main/ENGENHARIA%20SOFTWARE%203/STRATEGY/images/design%20patterns_strategy_compra.png)
-</p>
-
+![image]([https://github.com/LaizaCristina/bertoti/assets/111503805/abcf17e5-5500-4aea-8b86-dacd3fd38595](https://github.com/LaizaCristina/bertoti/blob/main/engenharia%20software%20III/design%20patterns/observer/image/observer.png?raw=true)https://github.com/LaizaCristina/bertoti/blob/main/engenharia%20software%20III/design%20patterns/observer/image/observer.png?raw=true)
