@@ -1,8 +1,10 @@
 # mvc → strategy + observer + composite
-![image](https://github.com/LaizaCristina/bertoti/blob/main/engenharia%20software%20III/design%20patterns/mvc/image/uml-mvc.png)
-## Padrão Strategy:
+
+![image](https://github.com/LaizaCristina/bertoti/blob/main/engenharia%20software%20III/design%20patterns/mvc/image/uml-mvc.png){width=300 height=200}
+##
+### Padrão Strategy:
 Neste contexto, o padrão Strategy permite definir estratégias para atualizar o estoque de produtos com base em diferentes métodos. Teremos duas estratégias: uma para adicionar produtos ao estoque e outra para remover produtos do estoque.
-```
+```java
 interface AtualizacaoEstoque {
     void atualizarEstoque(Produto produto, int quantidade);
 }
@@ -19,9 +21,10 @@ class RemoverDoEstoque implements AtualizacaoEstoque {
     }
 }
 ```
-## Padrão Observer:
+##
+### Padrão Observer:
 Os observadores serão diferentes departamentos do armazém, como o departamento de embalagem e o departamento de envio. Quando o estoque de um produto muda, esses departamentos precisam ser notificados para tomar ações apropriadas.
-```
+```java
 class DepartamentoArmazem {
     private String nome;
 
@@ -34,9 +37,10 @@ class DepartamentoArmazem {
     }
 }
 ```
-## Padrão Composite:
+##
+### Padrão Composite:
 Construímos uma estrutura em camadas para representar o armazém como um todo. Isso significa que dividimos o armazém em seções (ou departamentos) e organizamos os produtos dentro dessas seções. É como se estivéssemos criando uma árvore de categorias, onde cada nível representa um nível diferente de organização, desde o armazém como um todo até os produtos individuais. Isso torna a gestão e organização do armazém mais eficiente e fácil de entender.
-```
+```java
 import java.util.ArrayList;
 import java.util.List;
 
@@ -67,8 +71,9 @@ class Armazem {
     }
 }
 ```
-## código
-```
+##
+### código
+```java
 class Produto {
     private String nome;
     private int estoque;
@@ -93,8 +98,8 @@ class Produto {
     }
 }
 ```
-## main
-```
+### main
+```java
 public class Main {
     public static void main(String[] args) {
         AtualizacaoEstoque atualizacaoAdicionar = new AdicionarAoEstoque();
