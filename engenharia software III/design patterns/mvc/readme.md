@@ -1,4 +1,4 @@
-# mvc → strategy + observer + composite
+## mvc → strategy + observer + composite
 
  <img align="center" alt="uml-mvc" height="400" width="600" src="https://github.com/LaizaCristina/bertoti/blob/main/engenharia%20software%20III/design%20patterns/mvc/image/uml-mvc.png">
 
