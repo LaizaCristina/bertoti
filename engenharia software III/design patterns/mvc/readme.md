@@ -1,1 +1,1 @@
-qaaaaaaaaaa
+# mvc → strategy + observer + composite
