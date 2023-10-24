@@ -1,6 +1,8 @@
 # mvc → strategy + observer + composite
 
-![image](https://github.com/LaizaCristina/bertoti/blob/main/engenharia%20software%20III/design%20patterns/mvc/image/uml-mvc.png){width=300 height=200}
+ <img align="center" alt="uml-mvc" height="400" width="600" src="https://github.com/LaizaCristina/bertoti/blob/main/engenharia%20software%20III/design%20patterns/mvc/image/uml-mvc.png">
+
+
 ##
 ### Padrão Strategy:
 Neste contexto, o padrão Strategy permite definir estratégias para atualizar o estoque de produtos com base em diferentes métodos. Teremos duas estratégias: uma para adicionar produtos ao estoque e outra para remover produtos do estoque.
